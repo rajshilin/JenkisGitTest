@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T13:37:03 IST" name="Loan Department" finished-at="2023-10-10T13:37:04 IST" duration-ms="409">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T13:37:03 IST" name="Personal Loan" finished-at="2023-10-10T13:37:04 IST" duration-ms="409">
+      <class name="testCases.Day1">
+        <test-method signature="demo1()[pri:0, instance:testCases.Day1@411f53a0]" started-at="2023-10-10T13:37:04 IST" name="demo1" finished-at="2023-10-10T13:37:04 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method signature="demo2()[pri:0, instance:testCases.Day1@411f53a0]" started-at="2023-10-10T13:37:04 IST" name="demo2" finished-at="2023-10-10T13:37:04 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- testCases.Day1 -->
+      <class name="testCases.Day2">
+        <test-method signature="demo3()[pri:0, instance:testCases.Day2@776aec5c]" started-at="2023-10-10T13:37:04 IST" name="demo3" finished-at="2023-10-10T13:37:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- testCases.Day2 -->
+      <class name="testCases.Day3">
+        <test-method signature="apiLoginCarLoan()[pri:0, instance:testCases.Day3@1d296da]" started-at="2023-10-10T13:37:04 IST" name="apiLoginCarLoan" finished-at="2023-10-10T13:37:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiLoginCarLoan -->
+        <test-method signature="mobileLoginCarLoan()[pri:0, instance:testCases.Day3@1d296da]" started-at="2023-10-10T13:37:04 IST" name="mobileLoginCarLoan" finished-at="2023-10-10T13:37:04 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method signature="webLoginCarLoan()[pri:0, instance:testCases.Day3@1d296da]" started-at="2023-10-10T13:37:04 IST" name="webLoginCarLoan" finished-at="2023-10-10T13:37:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginCarLoan -->
+      </class> <!-- testCases.Day3 -->
+      <class name="testCases.Day4">
+        <test-method signature="apiLoginHomeLoan()[pri:0, instance:testCases.Day4@7c7a06ec]" started-at="2023-10-10T13:37:04 IST" name="apiLoginHomeLoan" finished-at="2023-10-10T13:37:04 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiLoginHomeLoan -->
+        <test-method signature="mobileLoginSignIn()[pri:0, instance:testCases.Day4@7c7a06ec]" started-at="2023-10-10T13:37:04 IST" name="mobileLoginSignIn" finished-at="2023-10-10T13:37:04 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginSignIn -->
+        <test-method signature="mobileLoginSignOut()[pri:0, instance:testCases.Day4@7c7a06ec]" started-at="2023-10-10T13:37:04 IST" name="mobileLoginSignOut" finished-at="2023-10-10T13:37:04 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginSignOut -->
+        <test-method signature="webLoginHomeLoan()[pri:0, instance:testCases.Day4@7c7a06ec]" started-at="2023-10-10T13:37:04 IST" name="webLoginHomeLoan" finished-at="2023-10-10T13:37:04 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginHomeLoan -->
+      </class> <!-- testCases.Day4 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
